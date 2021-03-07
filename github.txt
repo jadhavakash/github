@@ -1,0 +1,15 @@
+1.git init -b main
+2.git config --global user.name "akashitechnotion"
+3.git config --global user.email "akash.jadhav@itechnotion.in"
+4.git init
+5.git add .
+6.git status
+7.git remote add origin https://github.com/akashitechnotion/newnorm-organiser-html-development.git
+8. git push -u origin master
+
+ to the existing project
+1.git add .
+2.git commit -m "footer"
+3.git status
+4.git push -u origin master
+
